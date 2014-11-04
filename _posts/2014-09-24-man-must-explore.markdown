@@ -2,7 +2,7 @@
 layout:     post
 title:      "A Story"
 subtitle:   "Problems look mighty small from 150 miles up"
-date:       2014-09-24 12:00:00
+date:       2014-11-04 12:00:00
 author:     "Ashish Khanal"
 header-img: "img/post-bg-06.jpg"
 ---
